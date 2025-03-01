@@ -47,6 +47,7 @@ IMDB_Analysis/
 │── images/
 │   ├── number_of_movies_by_genre.png
 
+
 ## 📚 License
 This project is open-source and available under the MIT License.
 
