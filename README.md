@@ -37,6 +37,16 @@ In this analysis, we explore:
    ```bash
    pip install pandas numpy matplotlib seaborn
 
+## 📂 Project Structure
+IMDB_Analysis/
+│── data/
+│   ├── imdb_top_1000.csv
+│── notebooks/
+│   ├── imdb_analysis.ipynb
+│── README.md
+│── images/
+│   ├── number_of_movies_by_genre.png
+
 ## 📚 License
 This project is open-source and available under the MIT License.
 
