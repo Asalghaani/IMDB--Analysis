@@ -30,6 +30,12 @@ In this analysis, we explore:
 ## 🌍 Visualizations
 ### 📌 Number of Movies by Genre
 ![Genre Count](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/genere_count.png)
+### 📌 Average IMDb Ratings by Genre
+![Genre Ratings](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/genre_ratings.png)
+### 📌 Distribution of IMDb Ratings
+![IMDb Rating Distribution](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/imdb_rating_distribution.png)
+
+
 
 ## 🚀 How to Run
 
