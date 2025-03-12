@@ -34,8 +34,14 @@ In this analysis, we explore:
 ![Genre Ratings](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/genre_ratings.png)
 ### 📌 Distribution of IMDb Ratings
 ![IMDb Rating Distribution](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/imdb_rating_distribution.png)
-
-
+### 📌 Top 10 Highest-Grossing Movies
+![Top 10 Highest-Grossing Movies](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/top_10_revenue.png)
+### 📌 IMDb Ratings Over the Years
+![IMDb Ratings Over the Years](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/imdb_ratings_over_years.png)
+### 📌 Gross Revenue vs IMDb Rating
+![Gross Revenue vs IMDb Rating](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/gross_vs_imdb_rating.png)
+### 📌 Number of Votes vs IMDb Rating
+![Number of Votes vs IMDb Rating](https://github.com/Asalghaani/IMDB--Analysis/blob/main/Images/vote_vs_imdb_rating.png)
 
 ## 🚀 How to Run
 
